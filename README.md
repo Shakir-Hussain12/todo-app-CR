@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [Math-Magician ](#math-magician-)
+- [todo ](#todo-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -48,9 +48,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# Math-Magician <a name="about-project"></a>
+# todo <a name="about-project"></a>
 
-**Math-Magician** is a web based single page calculator that allows users to perform simple mathematical operations.
+> Basic Todo-List app that allows you to add/remove and edit todos, to manage your daily schedule.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +62,7 @@ This project was built using these technologies.
 - Webpack
 - HTML
 - CSS
-- React
+- React/Vite
 - Git/Github
 - Node.js
   
@@ -70,7 +70,7 @@ This project was built using these technologies.
 
 ### Key Features <a name="key-features"></a>
 
-- **Lets users perform mathematical operation**
+- **Lets users create a daily list of activities**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,8 +100,8 @@ This project requires the following:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Shakir-Hussain12/ Math-React.git
-  cd Math-React
+  git clone https://github.com/Shakir-Hussain12/todo-app-CR.git
+  cd todo-app-CR
 ```
 
 ### Install
@@ -117,7 +117,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-    npm start
+    npm run dev
 ```
 
 ### Run tests
